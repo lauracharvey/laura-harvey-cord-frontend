@@ -1,0 +1,28 @@
+{
+    "counters": [
+      {
+        "name": "Vanilla",
+        "number": 47,
+        "image": "https://i.imgur.com/JCU3qkg.png",
+        "percentage": 37.9
+      },
+      {
+          "name": "Chocolate",
+          "number": 32,
+          "image": "https://i.imgur.com/EnYcwcZ.png",
+          "percentage": 25.8
+      },
+      {
+          "name": "Caramel",
+          "number": 28,
+          "image": "https://i.imgur.com/c590A7b.png",
+          "percentage": 22.6
+      },
+      {
+          "name": "Strawberry",
+          "number": 17,
+          "image": "https://i.imgur.com/ZpQf3dR.png",
+          "percentage": 13.7
+      }
+    ]
+  }
